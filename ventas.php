@@ -1,1 +1,5 @@
-prueba de pphp
+<?php
+
+echo "prueba";
+
+?>
